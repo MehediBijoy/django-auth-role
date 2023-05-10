@@ -1,2 +1,2 @@
-# django-auth-role
+# django-role-auth
  
